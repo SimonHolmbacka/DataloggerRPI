@@ -1,0 +1,2 @@
+[paths]
+default = ssh://dag@zhaan.abo.fi/RaspberryPi/Datalogger
